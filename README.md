@@ -515,7 +515,7 @@ go test -v ./internal/parser -run TestParseExpression
 
 ## 📧 Contact
 
-**Name**: Nikhileswar Pappula  
+**Name**: Nikhileswar Palivela  
 **GitHub**: [@PNikhileswar](https://github.com/PNikhileswar)
 
 ## 📄 License
